@@ -1,7 +1,16 @@
 .choresText {
-   color: black;
+   color: cyan;
+   font-size: 3rem;
+   font-family: 'Courier New', Courier, monospace;
+   font-style: italic;
 }
 
 .choresHeading {
-   color: black;
+   color: rgb(43, 125, 5);
+   font-size: 2rem;
+   text-decoration: underline;
+}
+.choresBox{
+   border-color: chartreuse;
+   
 }
