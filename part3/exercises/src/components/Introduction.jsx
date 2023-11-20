@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Soccer</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>No one knows exactly when soccer was created.</li>
+            <li>Soccer is the most popular game in the world.</li>
+            <li>In China, the first soccer balls were made from sewn clothing that was filled with rubble.</li>
          </ol>
       </div>
    );
